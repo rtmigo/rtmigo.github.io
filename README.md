@@ -1,3 +1,3 @@
-Static HTML source for [rtmigo.github.io](https://rtmigo.github.io) homepage.
+Static HTML source for [rtmigo.github.io](https://rtmigo.github.io) page.
 
-Just redirects to the [github.com/rtmigo](https://github.com/rtmigo) profile page.
+As for now, it just redirects to the [github.com/rtmigo](https://github.com/rtmigo) profile.
