@@ -1,1 +1,1 @@
-[rtmigo.github.com](https://rtmigo.github.com) homepage
+Static HTML source for [rtmigo.github.com](https://rtmigo.github.com) homepage.
